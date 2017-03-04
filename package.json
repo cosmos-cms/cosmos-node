@@ -1,0 +1,16 @@
+{
+  "name": "cosmos-node",
+  "version": "1.0.0",
+  "description": "The Node JS SDK for CosMoS, the universal cms.",
+  "main": "src/Cosmos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marius Birkhoff",
+  "license": "MIT",
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "urllib-sync": "^1.1.3",
+    "ursa": "^0.9.4"
+  }
+}
