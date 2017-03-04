@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "The Node JS SDK for CosMoS, the universal cms.",
   "main": "src/Cosmos.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cosmos-cms/cosmos-node.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
